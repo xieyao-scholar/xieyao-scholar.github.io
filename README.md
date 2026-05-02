@@ -33,8 +33,8 @@
         <div class="section">
             <h2>Publications</h2>
             <ul class="pub-list">
-                <li><span class="pub-title">Simultaneous Formaldehyde and Hydrogen Peroxide Synthesis via Selective Photocatalytic Methanol Oxidation and Oxygen Reduction</span><br>
                 <span class="coauthors"><strong>Yao Xie</strong>, Wei Ou, Ying Tao, Qitao Zhang, Qingzhu Xu, Taoran Chen, Yunfei Ma, Hongli Sun, Xianguang Meng, Bin Liu, Chenliang Su</span><br>
+                <li><span class="pub-title">Simultaneous Formaldehyde and Hydrogen Peroxide Synthesis via Selective Photocatalytic Methanol Oxidation and Oxygen Reduction</span><br>            
                 <span class="journal">Angewandte Chemie International Edition</span> <span class="badge">under review</span></li>
 
                 <li><span class="pub-title">Ionic polarization engineering of polymeric carbon nitride toward efficient H₂O₂ photosynthesis</span><br>
@@ -89,4 +89,3 @@
     </footer>
 </div>
 </body>
-</html>
